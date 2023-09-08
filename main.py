@@ -201,28 +201,5 @@ elif len(user_word1) < 4:
    print("You can think of a longer word than that!")
 else:
    print("Excellent word!")
-print('-----nesting check within a check---------------')
-'''
-if condition_1:
-   # code here
+print('-----------')
 
-   if condition_2:
-      # code here
-
-      if condition_3:
-         # code here
-      else:
-         # code here
-
-   else:
-      # code here
-
-else:
-   # code here
-'''
-
-print('--------------------')
-
-print('--------------------')
-print('--------------------')
-print('--------------------')
